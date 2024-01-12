@@ -28,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Finish Project
+https://effervescent-sorbet-952f3a.netlify.app/
